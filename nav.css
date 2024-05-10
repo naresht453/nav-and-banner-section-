@@ -1,0 +1,44 @@
+.a{
+    font-size: 32px;
+    font-weight: bold;
+    border-style: solid;
+    border-color: #4b6cc1;
+    height: 65px;
+    width: 65px;
+    padding-left: 16px;
+    padding-bottom: 20px;
+}
+
+.bg-container{
+    background-color: #191a1d;
+    height: 100vh;
+}
+
+.ing{
+    height: 160px;
+
+}
+
+h1{
+    color: #ffffff;
+
+}
+.jenny{
+    color: #4b6cc1;
+
+}
+
+p {
+color: #9aa5b1;
+font-size: 20px;
+}
+
+.button{
+    background-color: #4b6cc1;
+   border-radius: 6px;
+   color: #ffffff;
+   padding: 2px;
+   height: 36px;
+   width: 110px;
+   font-size: 12px;
+}
